@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 # portfolio-projects
 
-## Contact Info
-
-- Linkedin: [Francesco Scutellaro](https://www.linkedin.com/in/francesco-scutellaro)
-- Email: <francesco.scutellaro@gmail.com>
-
-</br>
-
 ## Websites/Web Apps
 
 - Personal Website
