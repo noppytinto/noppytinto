@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫Contact Info
+## 📫 Contact Info
 
 - Linkedin: [Francesco Scutellaro](https://www.linkedin.com/in/francesco-scutellaro)
 - Email: <francesco.scutellaro@gmail.com>
 
 <br>
 
-## 🔭Portfolio
+## 👨‍💻 Portfolio
 
 ### Websites/Web Apps
 
