@@ -15,39 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# portfolio-projects
+## Contact Info
 
-## Websites/Web Apps
+- Linkedin: [Francesco Scutellaro](https://www.linkedin.com/in/francesco-scutellaro)
+- Email: <francesco.scutellaro@gmail.com>
 
-- Personal Website
-   - [visit website](https://fscutellaro.netlify.app/)
-   - [source code](https://github.com/noppytinto/personal-website)
- 
-- Travelmates (WIP)
-   - [visit website](https://travelmates.netlify.app)
-   - [source code](https://github.com/noppytinto/travelmates)
+<br>
 
-- Cinemates
-   - [visit website](https://cinemates.netlify.app)
-   - [source code](https://github.com/noppytinto/cinemates)
+# Portfolio
 
-- Mapty
-   - [visit website](https://noppytinto.github.io/practice-web-mapty/)
-   - [source code](https://github.com/noppytinto/practice-web-mapty)
+### Websites/Web Apps
 
-- Web Playground (codepen like website)
-  - [frontend](https://github.com/noppytinto/portfolio-js-web-playground)
-  - [backend](https://github.com/noppytinto/node-web-playground-server)
+| Name             | Live                                                        | Source                                                                                                                                     | Description            | Tech Stack                       |
+|------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------|
+| Personal Website | [website](https://fscutellaro.netlify.app/)                 | [code](https://github.com/noppytinto/personal-website)                                                                                     | My personal website    | HTML/CSS/JS                      |
+| Travelmates      | [website](https://travelmates.netlify.app)                  | [code](https://github.com/noppytinto/travelmates)                                                                                          | Travelmates            | Typescript, React, Next.js, Sass |
+| Cinemates        | [website](https://cinemates.netlify.app)                    | [code](https://github.com/noppytinto/cinemates)                                                                                            | movie app              | React                            |
+| Mapty            | [website](https://noppytinto.github.io/practice-web-mapty/) | [code](https://github.com/noppytinto/practice-web-mapty)                                                                                   | sport activity tracker | HTML/CSS/JS                      |
+| Web Playground   | (down)                                                      | [frontend](https://github.com/noppytinto/portfolio-js-web-playground), [backend](https://github.com/noppytinto/node-web-playground-server) | codepen like website   | HTML/CSS/JS, Node.js             |
 
-</br>
 
-## Mini Project Challenges
+<br>
+
+### Mini Project Challenges
 - [infiite scroll gallery](https://github.com/noppytinto/practice-web--infinite-scroll)
 - [light/dark mode](https://github.com/noppytinto/practice-web--dark-theme)
 - [kanban task manager](https://github.com/noppytinto/practice-web--drag-n-drop)
 
 
-## Frontend Mentor Challenges
+### Frontend Mentor Challenges
 
 - [Base Apparel coming soon page](https://github.com/noppytinto/frontendmentor-09-base-apparel-coming-soon)
 - [Huddle landing page with a single introductory section](https://github.com/noppytinto/frontendmentor-huddle-landing-page)
