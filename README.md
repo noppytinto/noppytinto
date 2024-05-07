@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ### University projects
 - Cinemates - movie app with social features (news feed, comments, likes, notifications, etc)
   - [android app code](https://github.com/noppytinto/android-Cinemates)
-  - [desktop app (users management)](https://github.com/noppytinto/java-Cinemates20_desk)
-  - [azure functions (email sender)](https://github.com/noppytinto/azure-cinemates_sender)
+  - [desktop app code (users management)](https://github.com/noppytinto/java-Cinemates20_desk)
+  - [azure functions code (email sender)](https://github.com/noppytinto/azure-cinemates_sender)
 - Javacations - Tripadvisor like desktop app
   - [code](https://github.com/noppytinto/java-progettoEsameCorteseScutellaro)
 
