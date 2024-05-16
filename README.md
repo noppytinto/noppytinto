@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 <br>
 
+## 🌐 Open Source Contributions
+
+- [Nuxt](https://github.com/nuxt/nuxt)
+
+<br>
+
 ## 👨‍💻 Portfolio
 
 ### Websites/Apps
